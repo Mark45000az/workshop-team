@@ -1,4 +1,5 @@
 # MORITZ STRICKER
+![Moritz Profile](./Picture/MarkCs2.jpg)
 **Full-Stack Web Developer & Software Engineer**
 
 📍 ร้อยเอ็ด, ประเทศไทย | 📱 083-430-1798 | ✉️ moritz2541@email.com  
